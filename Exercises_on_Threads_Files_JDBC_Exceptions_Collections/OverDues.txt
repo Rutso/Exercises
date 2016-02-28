@@ -1,0 +1,10 @@
+Adventure; 2016-02-17T15:34:09.909; Treasure Island; R.L.S.
+	User: Gosho
+	Penalty: 0.0
+Biology; Species; prof A.B.; Smart
+	User: Pesho
+	Penalty: 0.0
+Mathematics; Algebra; prof M.C.; Smart
+	User: Pesho
+	Penalty: 0.0
+Sum of penalties: 0.0 lv.

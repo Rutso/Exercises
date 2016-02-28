@@ -1,0 +1,7 @@
+Adventure; 2016-02-17T15:34:09.909; Treasure Island; R.L.S.
+	Date taken: 2016-02-17T15:34:09.953
+Biology; Species; prof A.B.; Smart
+	Date taken: 2016-02-17T15:34:09.953
+Mathematics; Algebra; prof M.C.; Smart
+	Date taken: 2016-02-17T15:34:09.953
+Number of not returned books: 3

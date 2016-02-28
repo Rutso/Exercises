@@ -1,0 +1,123 @@
+	NEW DAY BEGINS: 2016-02-28
+Dr. Mihail Stanchev starts work in Tokuda Hospital.
+Dr. Asen Vasilev starts work in Tokuda Hospital.
+Dr. Boriana Mladenova starts work in Tokuda Hospital.
+New nurse starts work in Neurology department.
+New nurse starts work in Neurology department.
+New nurse starts work in Orthopaedics department.
+New nurse starts work in Orthopaedics department.
+New nurse starts work in Neurology department.
+New nurse starts work in Orthopaedics department.
+New case added to Neurology department: Kaloian Mihailov in Room N1
+	Kaloian Mihailov inserted into database.
+New case added to Orthopaedics department: Sergei Koev in Room N1
+	Sergei Koev inserted into database.
+New case added to Neurology department: Monika Veleva in Room N2
+	Monika Veleva inserted into database.
+	NEW DAY BEGINS: 2016-02-29
+Nurse Galina Petkova from Orthopaedics gave the medicine to Sergei Koev.
+Nurse Veronika Borisova from Neurology gave the medicine to Monika Veleva.
+Nurse Veronika Borisova from Neurology gave the medicine to Kaloian Mihailov.
+Dr. Mihail Stanchev just visited Monika Veleva.
+Dr. Mihail Stanchev just visited Sergei Koev.
+Dr. Mihail Stanchev just visited Kaloian Mihailov.
+New case added to Cardiology department: Yordan Genov in Room N1
+	Yordan Genov inserted into database.
+New case added to Neurology department: Anelia Pavlova in Room N2
+	Anelia Pavlova inserted into database.
+Anelia Pavlova - ID = 5
+New case added to Orthopaedics department: Veronika Manolova in Room N2
+	Veronika Manolova inserted into database.
+	NEW DAY BEGINS: 2016-03-01
+Nurse Magdalena Toneva from Neurology gave the medicine to Anelia Pavlova.
+Nurse Galina Petkova from Orthopaedics gave the medicine to Veronika Manolova.
+Nurse Magdalena Toneva from Neurology gave the medicine to Monika Veleva.
+Nurse Galina Petkova from Orthopaedics gave the medicine to Sergei Koev.
+Nurse Magdalena Toneva from Neurology gave the medicine to Kaloian Mihailov.
+Dr. Mihail Stanchev just visited Anelia Pavlova.
+Dr. Asen Vasilev just visited Veronika Manolova.
+Dr. Mihail Stanchev just visited Yordan Genov.
+New case added to Neurology department: Manol Boev in Room N1
+	Manol Boev inserted into database.
+Manol Boev - ID = 7
+New case added to Orthopaedics department: Gergana Kalinova in Room N2
+	Gergana Kalinova inserted into database.
+Gergana Kalinova - ID = 8
+New case added to Cardiology department: Iliana Valentinova in Room N2
+	Iliana Valentinova inserted into database.
+New case added to Neurology department: Vasil Donkov in Room N1
+	Vasil Donkov inserted into database.
+Vasil Donkov - ID = 10
+Dr. Mihail Stanchev just visited Monika Veleva.
+Dr. Mihail Stanchev just visited Sergei Koev.
+Dr. Mihail Stanchev just visited Kaloian Mihailov.
+	NEW DAY BEGINS: 2016-03-02
+Nurse Magdalena Toneva from Neurology gave the medicine to Vasil Donkov.
+Nurse Ana Kirilova from Orthopaedics gave the medicine to Gergana Kalinova.
+Nurse Magdalena Toneva from Neurology gave the medicine to Manol Boev.
+Nurse Ana Kirilova from Orthopaedics gave the medicine to Veronika Manolova.
+Nurse Magdalena Toneva from Neurology gave the medicine to Anelia Pavlova.
+Nurse Ana Kirilova from Orthopaedics gave the medicine to Sergei Koev.
+Nurse Magdalena Toneva from Neurology gave the medicine to Monika Veleva.
+Nurse Magdalena Toneva from Neurology gave the medicine to Kaloian Mihailov.
+Dr. Mihail Stanchev just visited Anelia Pavlova.
+Dr. Asen Vasilev just visited Vasil Donkov.
+Dr. Asen Vasilev just visited Iliana Valentinova.
+Dr. Mihail Stanchev just visited Yordan Genov.
+Dr. Mihail Stanchev just visited Monika Veleva.
+Dr. Asen Vasilev just visited Gergana Kalinova.
+Dr. Mihail Stanchev just visited Sergei Koev.
+Dr. Asen Vasilev just visited Manol Boev.
+Dr. Asen Vasilev just visited Veronika Manolova.
+Dr. Mihail Stanchev just visited Kaloian Mihailov.
+	NEW DAY BEGINS: 2016-03-03
+Nurse Ana Kirilova from Orthopaedics gave the medicine to Gergana Kalinova.
+Nurse Veronika Borisova from Neurology gave the medicine to Vasil Donkov.
+Nurse Ana Kirilova from Orthopaedics gave the medicine to Veronika Manolova.
+Nurse Veronika Borisova from Neurology gave the medicine to Manol Boev.
+Nurse Ana Kirilova from Orthopaedics gave the medicine to Sergei Koev.
+Nurse Veronika Borisova from Neurology gave the medicine to Anelia Pavlova.
+Nurse Teodora Ivanova from Neurology gave the medicine to Monika Veleva.
+Nurse Teodora Ivanova from Neurology gave the medicine to Kaloian Mihailov.
+Dr. Asen Vasilev just visited Vasil Donkov.
+Dr. Mihail Stanchev just visited Anelia Pavlova.
+Dr. Asen Vasilev just visited Iliana Valentinova.
+Dr. Mihail Stanchev just visited Yordan Genov.
+Dr. Asen Vasilev just visited Gergana Kalinova.
+Dr. Mihail Stanchev just visited Monika Veleva.
+Dr. Asen Vasilev just visited Manol Boev.
+Dr. Mihail Stanchev just visited Sergei Koev.
+Dr. Asen Vasilev just visited Veronika Manolova.
+Dr. Mihail Stanchev just visited Kaloian Mihailov.
+Dr. Asen Vasilev closes the case of Veronika Manolova, who leaves Tokuda Hospital in good health.
+Dr. Mihail Stanchev closes the case of Monika Veleva, who leaves Tokuda Hospital in good health.
+Dr. Mihail Stanchev closes the case of Sergei Koev, who leaves Tokuda Hospital in good health.
+Dr. Mihail Stanchev closes the case of Kaloian Mihailov, who leaves Tokuda Hospital in good health.
+	NEW DAY BEGINS: 2016-03-04
+Nurse Veronika Borisova from Neurology gave the medicine to Vasil Donkov.
+Nurse Ana Kirilova from Orthopaedics gave the medicine to Gergana Kalinova.
+Nurse Veronika Borisova from Neurology gave the medicine to Manol Boev.
+Nurse Veronika Borisova from Neurology gave the medicine to Anelia Pavlova.
+Dr. Mihail Stanchev just visited Anelia Pavlova.
+Dr. Asen Vasilev just visited Vasil Donkov.
+Dr. Mihail Stanchev just visited Yordan Genov.
+Dr. Asen Vasilev just visited Iliana Valentinova.
+Dr. Mihail Stanchev closes the case of Anelia Pavlova, who leaves Tokuda Hospital in good health.
+Dr. Asen Vasilev just visited Gergana Kalinova.
+Dr. Asen Vasilev just visited Manol Boev.
+Dr. Asen Vasilev closes the case of Vasil Donkov, who leaves Tokuda Hospital in good health.
+Dr. Asen Vasilev closes the case of Gergana Kalinova, who leaves Tokuda Hospital in good health.
+Dr. Asen Vasilev closes the case of Manol Boev, who leaves Tokuda Hospital in good health.
+	NEW DAY BEGINS: 2016-03-05
+Dr. Asen Vasilev just visited Iliana Valentinova.
+Dr. Mihail Stanchev just visited Yordan Genov.
+	NEW DAY BEGINS: 2016-03-06
+Dr. Asen Vasilev just visited Iliana Valentinova.
+Dr. Mihail Stanchev just visited Yordan Genov.
+	NEW DAY BEGINS: 2016-03-07
+Dr. Mihail Stanchev just visited Yordan Genov.
+Dr. Asen Vasilev just visited Iliana Valentinova.
+	NEW DAY BEGINS: 2016-03-08
+Dr. Asen Vasilev just visited Iliana Valentinova.
+Dr. Mihail Stanchev just visited Yordan Genov.
+	NEW DAY BEGINS: 2016-03-09

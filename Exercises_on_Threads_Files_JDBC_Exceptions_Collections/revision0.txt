@@ -1,0 +1,4 @@
+Total number of taken Readings from Narodna biblioteka as for 2016-02-26T11:13:56.917 is 2.
+Follows the list by date taken:
+2016-02-26T11:13:51.910 - Treasure Island
+2016-02-26T11:13:51.911 - Algebra
